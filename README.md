@@ -23,3 +23,6 @@ Whether you're a data analyst, developer, or data engineer, DataFormatBridge emp
 Unlock the full potential of your data and break free from the limitations of disparate formats. Experience the freedom to work with data on your terms with DataFormatBridge. Join our growing community of contributors and users, and let's bridge the data format divide together.
 
 Visit our project repository on GitHub to get started: https://github.com/sam01ln12/data-format-bridge/
+
+
+Test restriction rules
